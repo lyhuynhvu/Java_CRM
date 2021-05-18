@@ -1,2 +1,2 @@
-# Java11_CRM_GV
- CRM Application for education purpose
+# Java11_CRM
+ CRM Application for registration
